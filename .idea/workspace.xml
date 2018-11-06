@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0667c8f-28d0-45c3-891c-3a15e962dffb" name="Default Changelist" comment="" />
+    <list default="true" id="d0667c8f-28d0-45c3-891c-3a15e962dffb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DiagonalStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactorPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlourPacker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargestPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberToWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PerfectNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,41 +54,51 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1537053191">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="150" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="150" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EvenDigitSum.java">
+        <entry file="file://$PROJECT_DIR$/src/LargestPrime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SharedDigit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LastDigitChecker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="425">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/GreatestCommonDivisor.java">
+        <entry file="file://$PROJECT_DIR$/src/DiagonalStar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="288">
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -92,6 +111,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -117,6 +139,12 @@
         <option value="$PROJECT_DIR$/src/SharedDigit.java" />
         <option value="$PROJECT_DIR$/src/LastDigitChecker.java" />
         <option value="$PROJECT_DIR$/src/GreatestCommonDivisor.java" />
+        <option value="$PROJECT_DIR$/src/FactorPrinter.java" />
+        <option value="$PROJECT_DIR$/src/PerfectNumber.java" />
+        <option value="$PROJECT_DIR$/src/NumberToWords.java" />
+        <option value="$PROJECT_DIR$/src/FlourPacker.java" />
+        <option value="$PROJECT_DIR$/src/LargestPrime.java" />
+        <option value="$PROJECT_DIR$/src/DiagonalStar.java" />
       </list>
     </option>
   </component>
@@ -126,41 +154,45 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="258" />
     <option name="y" value="18" />
     <option name="width" value="1401" />
     <option name="height" value="981" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="JavaStart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaStart" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaMasterClass - Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaMasterClass - Udemy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JavaStart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaStart" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaMasterClass - Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaMasterClass - Udemy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541526567996" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541533092584" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -174,56 +206,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GreatestCommonDivisor">
-    <configuration name="EvenDigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EvenDigitSum" />
+  <component name="RunManager" selected="Application.DiagonalStar">
+    <configuration name="DiagonalStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiagonalStar" />
       <module name="JavaStart" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstLastDigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstLastDigitSum" />
+    <configuration name="FlourPacker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlourPacker" />
       <module name="JavaStart" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreatestCommonDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GreatestCommonDivisor" />
+    <configuration name="LargestPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargestPrime" />
       <module name="JavaStart" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastDigitChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LastDigitChecker" />
+    <configuration name="NumberToWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberToWords" />
       <module name="JavaStart" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SharedDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SharedDigit" />
+    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PerfectNumber" />
       <module name="JavaStart" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FirstLastDigitSum" />
-      <item itemvalue="Application.EvenDigitSum" />
-      <item itemvalue="Application.SharedDigit" />
-      <item itemvalue="Application.LastDigitChecker" />
-      <item itemvalue="Application.GreatestCommonDivisor" />
+      <item itemvalue="Application.PerfectNumber" />
+      <item itemvalue="Application.NumberToWords" />
+      <item itemvalue="Application.FlourPacker" />
+      <item itemvalue="Application.LargestPrime" />
+      <item itemvalue="Application.DiagonalStar" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GreatestCommonDivisor" />
-        <item itemvalue="Application.LastDigitChecker" />
-        <item itemvalue="Application.SharedDigit" />
-        <item itemvalue="Application.EvenDigitSum" />
-        <item itemvalue="Application.FirstLastDigitSum" />
+        <item itemvalue="Application.DiagonalStar" />
+        <item itemvalue="Application.LargestPrime" />
+        <item itemvalue="Application.FlourPacker" />
+        <item itemvalue="Application.NumberToWords" />
+        <item itemvalue="Application.PerfectNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -240,11 +272,12 @@
       <workItem from="1541138924040" duration="4922000" />
       <workItem from="1541361063193" duration="7674000" />
       <workItem from="1541525527564" duration="1053000" />
+      <workItem from="1541526907683" duration="3610000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13649000" />
+    <option name="totallyTimeSpent" value="17259000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -259,7 +292,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18380567" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18704453" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -268,7 +301,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3374778" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3374778" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -418,21 +451,63 @@
     <entry file="file://$PROJECT_DIR$/src/SharedDigit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LastDigitChecker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GreatestCommonDivisor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactorPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PerfectNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumberToWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FlourPacker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LargestPrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DiagonalStar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
         </state>
       </provider>
     </entry>
